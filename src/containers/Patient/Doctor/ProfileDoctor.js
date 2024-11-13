@@ -74,7 +74,7 @@ class ProfileDoctor extends Component {
     let { dataProfile } = this.state;
     let { language, isShowDescriptionDoctor, dataTime } = this.props;
 
-    console.log("mylanh check state:", this.state);
+    console.log("vincent check state:", this.state);
 
     let nameVi = "",
       nameEn = "";

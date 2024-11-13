@@ -8,11 +8,11 @@ class HomeFooter extends Component {
     return (
       <div className="home-footer">
         <p>
-          &copy; 2024 Ngô Thị Mỹ Lành. More information,please visit my youtube
+          &copy; 2024 Vincent. More information,please visit my youtube
           chanel.
           <a
             target="blank"
-            href="https://www.youtube.com/watch?v=kGR0mkeS_mo&t=29s"
+            href="#"
           >
             &#8594; Click here &#8592;
           </a>

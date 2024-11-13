@@ -229,7 +229,7 @@ class UserRedux extends Component {
 
     return (
       <div className="user-redux-container">
-        <div className="title">UserRedux with MyLanh</div>
+        <div className="title">UserRedux with vincent</div>
         <div className="user-redux-body">
           <div className="container">
             <div className="row">
